@@ -1,2 +1,4 @@
 # hello-world
-第一个存储库
+
+I have a dream！
+I like play computergame！
